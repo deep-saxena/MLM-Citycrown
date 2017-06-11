@@ -1,0 +1,4 @@
+.menu > li > a {
+	behavior: url("../js/PIE.htc");
+	position:relative;
+}
